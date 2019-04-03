@@ -4,6 +4,7 @@ int main(){
   printf("Enter Message:\n");
   scanf("%s", &sent);
   printf("Message was: %s\n", sent);
-  return 0;
-  //cool  
+  return 0;  
+
+
   }
